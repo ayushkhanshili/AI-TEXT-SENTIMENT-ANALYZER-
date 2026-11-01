@@ -27,13 +27,13 @@ st.markdown("""
 <style>
 .stApp {
     background: linear-gradient(135deg, #101827, #172554);
-    color: WHITE;
+    color: MINT GREEN;
 }
 .main-title {
     font-size: 42px;
     font-weight: 800;
     text-align: center;
-    color: #000000;
+    color: #60A5FA;
 }
 .subtitle {
     text-align: center;
