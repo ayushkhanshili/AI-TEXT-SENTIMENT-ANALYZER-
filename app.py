@@ -27,7 +27,7 @@ st.markdown("""
 <style>
 .stApp {
     background: linear-gradient(135deg, #101827, #172554);
-    color: white;
+    color: WHITE;
 }
 .main-title {
     font-size: 42px;
@@ -41,7 +41,7 @@ st.markdown("""
     font-size: 17px;
 }
 .result-card {
-    background: #1E293B;
+    background: #000000;
     padding: 25px;
     border-radius: 16px;
     text-align: center;
