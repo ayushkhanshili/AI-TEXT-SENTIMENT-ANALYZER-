@@ -27,7 +27,7 @@ st.markdown("""
 <style>
 .stApp {
     background: linear-gradient(135deg, #101827, #172554);
-    color: YELLOW;
+    color: DARK BLUE;
 }
 .main-title {
     font-size: 42px;
